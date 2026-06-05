@@ -1,8 +1,10 @@
+![Svelte Logo](https://st.hostman.com/cloud-static/apps-logo/svelte.svg)
+
 # Svelte
 
 Example of a [Svelte](https://svelte.dev/) application that can be deployed to **Hostman** without configuration.
 
-:tada: [Demo]()
+:tada: [Demo](https://hostman-cloud-app-example-svelte-d138.hostman.dev/)
 
 :rocket: [Create your Apps](https://hostman.com/my/apps/create)
 
